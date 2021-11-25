@@ -18,10 +18,11 @@ MonoBehaviour:
       itemNames:
       - ~Element Name~
       - LoadScreen
-      - LoginPrincipalScreen
       - LoginScreen
+      - Main
       - MainScreen
       - PrincipalScreen
+      - SelectScene
       - ShopScreen
       isExpanded:
         m_Target: 1
@@ -31,9 +32,9 @@ MonoBehaviour:
       itemNames:
       - ~Element Name~
       isExpanded:
-        m_Target: 1
+        m_Target: 0
         speed: 2
-        m_Value: 1
+        m_Value: 0
     categoryNames:
     - ~Custom Name~
     - MainMenu
