@@ -17,13 +17,10 @@ MonoBehaviour:
     - categoryName: MainMenu
       itemNames:
       - ~Element Name~
-      - LoadScreen
-      - LoginScreen
+      - IntroVideo
       - Main
       - MainScreen
       - PrincipalScreen
-      - SelectScene
-      - ShopScreen
       isExpanded:
         m_Target: 1
         speed: 2

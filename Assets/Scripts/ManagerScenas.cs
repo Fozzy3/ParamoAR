@@ -40,4 +40,10 @@ public class ManagerScenas : MonoBehaviour
     {
         SceneManager.LoadScene(nameScenas[position]);
     }
+
+    public void StartScene()
+    {
+        SceneManager.LoadScene(nameScenas[position]);
+
+    }
 }
